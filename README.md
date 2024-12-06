@@ -11,5 +11,6 @@ Utilizando uma lib pyaes, o objetivo era criar um programa capaz de criptografar
 
 ![](/Pics/Encrypted.png)
 
-* Executando o Decrypter.py, é realizado o processo inverso e o texto é apresentado. 
+* Executando o Decrypter.py, é realizado o processo inverso e o texto é apresentado.
+  
 ![](/Pics/Decrypted.png)
